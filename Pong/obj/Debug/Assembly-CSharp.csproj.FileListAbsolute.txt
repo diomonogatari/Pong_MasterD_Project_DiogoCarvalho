@@ -1,0 +1,556 @@
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Assembly-CSharp.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\com.unity.quicksearch.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\mscorlib.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\netstandard.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.AppContext.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.Concurrent.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.NonGeneric.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.Specialized.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.Composition.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Console.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Core.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Data.Common.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Data.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Debug.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Process.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Tools.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Drawing.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Drawing.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Dynamic.Runtime.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Globalization.Calendars.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Globalization.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Globalization.Extensions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Compression.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Pipes.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.Expressions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.Parallel.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.Queryable.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Http.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.NameResolution.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.NetworkInformation.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Ping.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Requests.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Security.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Sockets.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.WebSockets.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Numerics.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Numerics.Vectors.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ObjectModel.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Reflection.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Reflection.Extensions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Reflection.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Resources.Reader.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Resources.ResourceManager.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Resources.Writer.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Extensions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Handles.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.InteropServices.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Numerics.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Claims.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Principal.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.SecureString.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ServiceModel.Web.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Text.Encoding.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Text.RegularExpressions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Overlapped.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Tasks.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Thread.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.ThreadPool.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Timer.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Transactions.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ValueTuple.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Web.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Windows.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.Linq.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.Serialization.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XDocument.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XmlDocument.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XPath.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Rider.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.VSCode.Editor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.UI.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AIModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ARModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AudioModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClothModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CoreModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GridModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TLSModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UI.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UNETModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VFXModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VideoModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VRModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.WindModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.XRModule.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Cecil.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.SerializationLogic.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\ExCSS.Unity.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.TestRunner.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CecilTools.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TestRunner.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UI.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Rider.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.UI.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\com.unity.quicksearch.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AIModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ARModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AudioModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClothModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CoreModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GridModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TLSModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UNETModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VFXModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VRModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VideoModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.WindModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.XRModule.xml
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.dll
+I:\UnityProjects\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Assembly-CSharp.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\com.unity.quicksearch.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\mscorlib.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\netstandard.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.AppContext.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.Concurrent.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.NonGeneric.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Collections.Specialized.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.Composition.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Console.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Core.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Data.Common.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Data.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Debug.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Process.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Tools.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Drawing.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Drawing.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Dynamic.Runtime.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Globalization.Calendars.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Globalization.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Globalization.Extensions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Compression.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.Pipes.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.Expressions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.Parallel.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Linq.Queryable.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Http.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.NameResolution.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.NetworkInformation.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Ping.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Requests.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Security.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.Sockets.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Net.WebSockets.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Numerics.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Numerics.Vectors.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ObjectModel.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Reflection.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Reflection.Extensions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Reflection.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Resources.Reader.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Resources.ResourceManager.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Resources.Writer.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Extensions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Handles.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.InteropServices.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Numerics.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Claims.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.Principal.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Security.SecureString.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ServiceModel.Web.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Text.Encoding.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Text.RegularExpressions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Overlapped.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Tasks.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Thread.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.ThreadPool.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Threading.Timer.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Transactions.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.ValueTuple.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Web.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Windows.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.Linq.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.Serialization.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XDocument.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XmlDocument.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XPath.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Rider.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.VSCode.Editor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.UI.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AIModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ARModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AudioModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClothModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CoreModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GridModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TLSModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UI.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UNETModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VFXModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VideoModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VRModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.WindModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.XRModule.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Cecil.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.SerializationLogic.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\ExCSS.Unity.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.TestRunner.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CecilTools.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TestRunner.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AIModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ARModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.AudioModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClothModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CoreModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.GridModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TLSModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UNETModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VFXModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VRModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.VideoModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.WindModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.XRModule.xml
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.UI.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Timeline.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.Rider.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\Unity.TextMeshPro.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.UI.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\com.unity.quicksearch.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.dll
+I:\UnityProjects\MasterD Course\MasterD Project\Pong\Pong_MasterD_Project_DiogoCarvalho\Pong\obj\Debug\Assembly-CSharp.pdb
